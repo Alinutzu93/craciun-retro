@@ -18,11 +18,12 @@ import shutil
 from pathlib import Path
 
 from date import CANALE, EPISOADE, FILME, SERIALE
+from retro import actualizeaza_cache, incarca_cache, program_amestecat
 
 RADACINA = Path(__file__).resolve().parent
 IESIRE = RADACINA / "docs"
 PREFIX = "craciunro_"
-VERSIUNE = "1.0.0"
+VERSIUNE = "1.1.0"
 
 
 def poster(tt):
@@ -127,6 +128,46 @@ def meta_tv(cheie, nume, descriere, eps, ziua):
     }
 
 
+def meta_amestecat(ziua, cache):
+    """Canal cu toate desenele: după fiecare episod de Crăciun/iarnă vin 2 episoade obișnuite."""
+    rnd = random.Random(f"amestecat-{ziua.isoformat()}")
+    sarbatori = amesteca_fara_repetari(EPISOADE, rnd)
+    program = program_amestecat(sarbatori, cache, rnd)
+    start = dt.date(2000, 1, 1)
+    videos = []
+    for i, p in enumerate(program):
+        data = (start + dt.timedelta(days=i)).isoformat()
+        if p["tip"] == "sarbatoare":
+            v = video(p["ep"], 1, i + 1, data)
+            v["title"] = "🎄 " + v["title"]
+        else:
+            v = {
+                "id": f"{p['tt']}:{p['s']}:{p['e']}",
+                "title": f"{p['serial']} — {p['titlu']}",
+                "season": 1,
+                "episode": i + 1,
+                "released": data + "T00:00:00.000Z",
+                "thumbnail": fundal(p["tt"]),
+                "overview": f"{p['serial']} · S{p['s']:02d}E{p['e']:02d}",
+            }
+        videos.append(v)
+    return {
+        "id": PREFIX + "tv_retro",
+        "type": "series",
+        "name": "🎲 TV retro amestecat",
+        "poster": poster("tt0175058"),
+        "background": fundal("tt0118360"),
+        "description": (
+            f"Toate desenele de pe Fox Kids, Jetix și Cartoon Network ({len(cache)} seriale), "
+            f"amestecate ca într-o zi de decembrie la TV: după fiecare episod de Crăciun vin două episoade obișnuite. "
+            f"Programul de azi ({ziua.strftime('%d.%m.%Y')}): {len(videos)} episoade."
+        ),
+        "releaseInfo": "Fox Kids · Jetix · Cartoon Network",
+        "genres": ["Crăciun", "Desene animate", "Retro"],
+        "videos": videos,
+    }
+
+
 def preview(meta):
     return {k: meta[k] for k in ("id", "type", "name", "poster", "description", "releaseInfo", "genres")}
 
@@ -172,14 +213,23 @@ document.getElementById('inst').href = u.replace(/^https?:/, 'stremio:');
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--data", help="ziua pentru programul TV, AAAA-LL-ZZ (implicit: azi)")
+    ap.add_argument("--actualizeaza", action="store_true",
+                    help="ia din Cinemeta episoadele tuturor desenelor (are nevoie de internet)")
     args = ap.parse_args()
     ziua = dt.date.fromisoformat(args.data) if args.data else dt.date.today()
+
+    raport = actualizeaza_cache() if args.actualizeaza else None
+    cache = incarca_cache()
 
     if IESIRE.exists():
         shutil.rmtree(IESIRE)
     IESIRE.mkdir()
+    if raport is not None:
+        scrie("raport_seriale.json", raport)
 
     metas = [meta_canal(c) for c in CANALE]
+    if cache:
+        metas.insert(0, meta_amestecat(ziua, cache))
     toate_craciun = [ep for ep in EPISOADE if ep[5] == "C"]
     metas.insert(0, meta_tv(
         "tv_craciun", "📺 Canal TV de Crăciun",

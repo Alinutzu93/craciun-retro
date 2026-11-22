@@ -5,6 +5,7 @@ Addonul aduce în Stremio episoadele de Crăciun și de iarnă din desenele de p
 În Stremio apar:
 - **📺 Canal TV de Crăciun**: 43 de episoade de Crăciun, puse unul după altul. Ordinea se schimbă în fiecare zi.
 - **❄️ Canal TV de iarnă**: toate cele 62 de episoade, de Crăciun și de iarnă.
+- **🎲 TV retro amestecat**: toate desenele de pe cele trei canale, amestecate ca la TV în decembrie. După fiecare episod de Crăciun sau de iarnă vin două episoade obișnuite din alte desene (doar episoade apărute până în 2010). Episoadele obișnuite se iau din Cinemeta. Ce seriale au fost găsite se vede în `docs/raport_seriale.json`.
 - **Fox Kids / Jetix / Cartoon Network — Crăciun**: câte un canal pentru fiecare. Sezonul 1 are episoadele de Crăciun, sezonul 2 pe cele de iarnă.
 - **Speciale de Crăciun retro**: filmele *Inspector Gadget Saves Christmas* și *Yogi's First Christmas*.
 
@@ -32,10 +33,10 @@ Pe televizor (Stremio pentru Android TV sau Samsung/LG) addonul apare singur, da
 
 ## Modificare listă
 
-Episoadele sunt în `date.py`. După ce o modifici, rulează:
+Episoadele de Crăciun sunt în `date.py`, lista tuturor desenelor pentru canalul amestecat în `retro.py`. După ce o modifici, rulează:
 
 ```
-py genereaza.py
+py genereaza.py --actualizeaza
 ```
 
 Apoi urcă folderul `docs` pe GitHub. `py genereaza.py --data 2026-12-24` face programul pentru o anumită zi.
