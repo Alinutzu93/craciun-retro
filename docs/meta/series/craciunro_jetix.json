@@ -23,19 +23,82 @@
     "overview": "Dragonul American: Jake Long · S02E16 · blocul Disney Stars, din 2008"
    },
    {
+    "id": "tt1307224:1:26",
+    "title": "Kid vs. Kat — Kid vs. Kat vs. Christmas (1 & 2)",
+    "season": 1,
+    "episode": 2,
+    "released": "2000-01-01T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt1307224/img",
+    "overview": "Kid vs. Kat · S01E26"
+   },
+   {
     "id": "tt0278866:2:15",
     "title": "Kim Possible — A Very Possible Christmas",
     "season": 1,
-    "episode": 2,
+    "episode": 3,
     "released": "2003-12-05T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0278866/img",
     "overview": "Kim Possible · S02E15 · blocul Disney Stars, din 2008"
    },
    {
+    "id": "tt0374419:1:10",
+    "title": "Martin Mystery — Eternal Christmas",
+    "season": 1,
+    "episode": 4,
+    "released": "2000-01-01T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0374419/img",
+    "overview": "Martin Mystery · S01E10"
+   },
+   {
+    "id": "tt0374419:3:18",
+    "title": "Martin Mystery — All I Want for X-mas",
+    "season": 1,
+    "episode": 5,
+    "released": "2000-01-01T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0374419/img",
+    "overview": "Martin Mystery · S03E18"
+   },
+   {
+    "id": "tt1353145:1:16",
+    "title": "Monster Buster Club — Secret Santa",
+    "season": 1,
+    "episode": 6,
+    "released": "2000-01-01T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt1353145/img",
+    "overview": "Monster Buster Club · S01E16"
+   },
+   {
+    "id": "tt0852863:2:37",
+    "title": "Phineas și Ferb — Phineas and Ferb's Christmas Vacation (probabil)",
+    "season": 1,
+    "episode": 7,
+    "released": "2009-12-06T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0852863/img",
+    "overview": "Phineas și Ferb · S02E37 · apărut după închiderea Jetix"
+   },
+   {
+    "id": "tt0795256:1:30",
+    "title": "Pucca — Secret Santa",
+    "season": 1,
+    "episode": 8,
+    "released": "2000-01-01T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0795256/img",
+    "overview": "Pucca · S01E30"
+   },
+   {
+    "id": "tt0795256:2:32",
+    "title": "Pucca — Jingle Cans (probabil)",
+    "season": 1,
+    "episode": 9,
+    "released": "2000-01-01T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0795256/img",
+    "overview": "Pucca · S02E32"
+   },
+   {
     "id": "tt0283226:3:14",
     "title": "Spioanele — Evil G.L.A.D.I.S. Much? (probabil)",
     "season": 1,
-    "episode": 3,
+    "episode": 10,
     "released": "2005-03-27T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0283226/img",
     "overview": "Spioanele · S03E14 · are o petrecere de Crăciun"
@@ -44,7 +107,7 @@
     "id": "tt0283226:5:23",
     "title": "Spioanele — Ho-ho-ho-No! (probabil)",
     "season": 1,
-    "episode": 4,
+    "episode": 11,
     "released": "2010-05-26T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0283226/img",
     "overview": "Spioanele · S05E23 · sezonul 5 a apărut după închiderea Jetix"
@@ -53,34 +116,79 @@
     "id": "tt0855673:2:55",
     "title": "Yin Yang Yo! — Season's Beatings (probabil)",
     "season": 1,
-    "episode": 5,
+    "episode": 12,
     "released": "2008-11-24T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0855673/img",
     "overview": "Yin Yang Yo! · S02E55 · difuzarea în RO nesigură"
    },
    {
+    "id": "tt0429305:1:12",
+    "title": "Dragonul American: Jake Long — Ski Trip",
+    "season": 2,
+    "episode": 1,
+    "released": "2000-01-01T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0429305/img",
+    "overview": "Dragonul American: Jake Long · S01E12"
+   },
+   {
     "id": "tt0278866:2:14",
     "title": "Kim Possible — Day of the Snowmen",
     "season": 2,
-    "episode": 1,
+    "episode": 2,
     "released": "2003-11-14T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0278866/img",
     "overview": "Kim Possible · S02E14 · blocul Disney Stars, din 2008"
    },
    {
+    "id": "tt0852863:1:11",
+    "title": "Phineas și Ferb — S'Winter",
+    "season": 2,
+    "episode": 3,
+    "released": "2000-01-01T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0852863/img",
+    "overview": "Phineas și Ferb · S01E11"
+   },
+   {
+    "id": "tt0795256:1:17",
+    "title": "Pucca — Snow Ninjas",
+    "season": 2,
+    "episode": 4,
+    "released": "2000-01-01T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0795256/img",
+    "overview": "Pucca · S01E17"
+   },
+   {
+    "id": "tt0795256:1:37",
+    "title": "Pucca — No New Year's Eve",
+    "season": 2,
+    "episode": 5,
+    "released": "2000-01-01T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0795256/img",
+    "overview": "Pucca · S01E37 · Revelion"
+   },
+   {
     "id": "tt0283226:2:21",
     "title": "Spioanele — Ski Trip",
     "season": 2,
-    "episode": 2,
+    "episode": 6,
     "released": "2004-04-29T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0283226/img",
     "overview": "Spioanele · S02E21"
    },
    {
+    "id": "tt0423746:2:9",
+    "title": "Super Robot Monkey Team — Snowbound",
+    "season": 2,
+    "episode": 7,
+    "released": "2000-01-01T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0423746/img",
+    "overview": "Super Robot Monkey Team · S02E09"
+   },
+   {
     "id": "tt0855673:1:18",
     "title": "Yin Yang Yo! — Scarf It Up! (probabil)",
     "season": 2,
-    "episode": 3,
+    "episode": 8,
     "released": "2006-09-08T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0855673/img",
     "overview": "Yin Yang Yo! · S01E18 · difuzarea în RO nesigură"

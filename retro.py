@@ -222,7 +222,7 @@ def program_amestecat(sarbatori, cache, rnd, normale_dupa_fiecare=2):
     Întoarce o listă de dicționare: {tt, s, e, serial, titlu, tip}.
     """
     seriale = list(cache.values())
-    folosite = set()
+    folosite = {(ep[0], ep[1], ep[2]) for ep in sarbatori}  # episoadele de Crăciun nu apar și ca „obișnuite”
     rezultat = []
     ultimul_tt = None
 

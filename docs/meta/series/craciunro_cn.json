@@ -68,10 +68,19 @@
     "overview": "Animaniacii · S05E14"
    },
    {
+    "id": "tt0424603:1:49",
+    "title": "Atomic Betty — Jingle Brawls",
+    "season": 1,
+    "episode": 7,
+    "released": "2000-01-01T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0424603/img",
+    "overview": "Atomic Betty · S01E49"
+   },
+   {
     "id": "tt0292800:5:11",
     "title": "Aventurile lui Billy și Mandy — Billy & Mandy Save Christmas",
     "season": 1,
-    "episode": 7,
+    "episode": 8,
     "released": "2005-12-11T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0292800/img",
     "overview": "Aventurile lui Billy și Mandy · S05E11"
@@ -80,7 +89,7 @@
     "id": "tt0103359:1:38",
     "title": "Batman: Seria animată — Christmas with the Joker",
     "season": 1,
-    "episode": 8,
+    "episode": 9,
     "released": "1992-11-13T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0103359/img",
     "overview": "Batman: Seria animată · S01E38"
@@ -89,7 +98,7 @@
     "id": "tt0760437:3:4",
     "title": "Ben 10 — Merry Christmas",
     "season": 1,
-    "episode": 9,
+    "episode": 10,
     "released": "2006-12-11T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0760437/img",
     "overview": "Ben 10 · S03E04"
@@ -98,7 +107,7 @@
     "id": "tt0419326:3:10",
     "title": "Casa Foster pentru prieteni imaginari — A Lost Claus",
     "season": 1,
-    "episode": 10,
+    "episode": 11,
     "released": "2005-12-01T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0419326/img",
     "overview": "Casa Foster pentru prieteni imaginari · S03E10"
@@ -107,7 +116,7 @@
     "id": "tt0306274:1:14",
     "title": "Ce e nou, Scooby-Doo? — A Scooby Christmas",
     "season": 1,
-    "episode": 11,
+    "episode": 12,
     "released": "2002-12-13T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0306274/img",
     "overview": "Ce e nou, Scooby-Doo? · S01E14"
@@ -116,7 +125,7 @@
     "id": "tt1140100:2:7",
     "title": "Chowder — Hey Hey It's Knishmas",
     "season": 1,
-    "episode": 12,
+    "episode": 13,
     "released": "2008-12-04T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt1140100/img",
     "overview": "Chowder · S02E07"
@@ -125,16 +134,34 @@
     "id": "tt0312109:5:1",
     "title": "Clanul Nebunaticilor de Alături — Operation: N.A.U.G.H.T.Y.",
     "season": 1,
-    "episode": 13,
+    "episode": 14,
     "released": "2005-12-16T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0312109/img",
     "overview": "Clanul Nebunaticilor de Alături · S05E01"
    },
    {
+    "id": "tt0767914:2:9",
+    "title": "Class of 3000 — The Class of 3000 Christmas Special (Part 1)",
+    "season": 1,
+    "episode": 15,
+    "released": "2000-01-01T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0767914/img",
+    "overview": "Class of 3000 · S02E09"
+   },
+   {
+    "id": "tt0767914:2:10",
+    "title": "Class of 3000 — The Class of 3000 Christmas Special (Part 2)",
+    "season": 1,
+    "episode": 16,
+    "released": "2000-01-01T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0767914/img",
+    "overview": "Class of 3000 · S02E10"
+   },
+   {
     "id": "tt0451461:2:17",
     "title": "Colegul meu de sală e o maimuță — Have Yourself a Joyful Little Animas",
     "season": 1,
-    "episode": 14,
+    "episode": 17,
     "released": "2006-09-23T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0451461/img",
     "overview": "Colegul meu de sală e o maimuță · S02E17"
@@ -143,16 +170,34 @@
     "id": "tt0184111:0:2",
     "title": "Ed, Edd și Eddy — Ed, Edd n Eddy's Jingle Jingle Jangle",
     "season": 1,
-    "episode": 15,
+    "episode": 18,
     "released": "2004-12-03T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0184111/img",
     "overview": "Ed, Edd și Eddy · S00E02 · special"
    },
    {
+    "id": "tt0218769:1:11",
+    "title": "Eu sunt Nevăstuica — Happy Baboon Holidays",
+    "season": 1,
+    "episode": 19,
+    "released": "2000-01-01T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0218769/img",
+    "overview": "Eu sunt Nevăstuica · S01E11"
+   },
+   {
+    "id": "tt0419322:1:14",
+    "title": "Evil Con Carne — Christmas Con Carne",
+    "season": 1,
+    "episode": 20,
+    "released": "2000-01-01T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0419322/img",
+    "overview": "Evil Con Carne · S01E14"
+   },
+   {
     "id": "tt0053502:0:4",
     "title": "Familia Flintstone — A Flintstone Christmas (probabil)",
     "season": 1,
-    "episode": 16,
+    "episode": 21,
     "released": "1977-12-07T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0053502/img",
     "overview": "Familia Flintstone · S00E04 · special; difuzarea în RO nesigură"
@@ -161,7 +206,7 @@
     "id": "tt0053502:0:15",
     "title": "Familia Flintstone — A Flintstones Christmas Carol (probabil)",
     "season": 1,
-    "episode": 17,
+    "episode": 22,
     "released": "1994-11-21T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0053502/img",
     "overview": "Familia Flintstone · S00E15 · special; difuzarea în RO nesigură"
@@ -170,7 +215,7 @@
     "id": "tt0053502:5:15",
     "title": "Familia Flintstone — Christmas Flintstone",
     "season": 1,
-    "episode": 18,
+    "episode": 23,
     "released": "1964-12-25T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0053502/img",
     "overview": "Familia Flintstone · S05E15"
@@ -179,7 +224,7 @@
     "id": "tt0055683:2:18",
     "title": "Familia Jetson — A Jetson Christmas Carol",
     "season": 1,
-    "episode": 19,
+    "episode": 24,
     "released": "1985-04-13T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0055683/img",
     "overview": "Familia Jetson · S02E18"
@@ -188,7 +233,7 @@
     "id": "tt0175058:0:5",
     "title": "Fetițele Powerpuff — 'Twas the Fight Before Christmas",
     "season": 1,
-    "episode": 20,
+    "episode": 25,
     "released": "2003-12-12T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0175058/img",
     "overview": "Fetițele Powerpuff · S00E05 · special"
@@ -197,7 +242,7 @@
     "id": "tt0118360:1:14",
     "title": "Johnny Bravo — 'Twas The Night",
     "season": 1,
-    "episode": 21,
+    "episode": 26,
     "released": "1997-08-04T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0118360/img",
     "overview": "Johnny Bravo · S01E14"
@@ -206,7 +251,7 @@
     "id": "tt0118360:3:52",
     "title": "Johnny Bravo — A Johnny Bravo Christmas",
     "season": 1,
-    "episode": 22,
+    "episode": 27,
     "released": "2001-12-21T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0118360/img",
     "overview": "Johnny Bravo · S03E52"
@@ -215,7 +260,7 @@
     "id": "tt0115157:2:105",
     "title": "Laboratorul lui Dexter — Dexter Vs. Santa's Claws",
     "season": 1,
-    "episode": 23,
+    "episode": 28,
     "released": "1998-04-29T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0115157/img",
     "overview": "Laboratorul lui Dexter · S02E105"
@@ -224,7 +269,7 @@
     "id": "tt0275137:2:23",
     "title": "Liga Dreptății — Comfort and Joy",
     "season": 1,
-    "episode": 24,
+    "episode": 29,
     "released": "2003-12-13T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0275137/img",
     "overview": "Liga Dreptății · S02E23"
@@ -233,7 +278,7 @@
     "id": "tt1178180:2:23",
     "title": "Peripețiile lui Flapjack — Low Tidings",
     "season": 1,
-    "episode": 25,
+    "episode": 30,
     "released": "2009-12-03T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt1178180/img",
     "overview": "Peripețiile lui Flapjack · S02E23 · difuzat în RO probabil în 2010"
@@ -242,25 +287,61 @@
     "id": "tt0112123:1:12",
     "title": "Pinky și Creierul — A Pinky And The Brain Christmas",
     "season": 1,
-    "episode": 26,
+    "episode": 31,
     "released": "1995-12-13T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0112123/img",
     "overview": "Pinky și Creierul · S01E12"
    },
    {
+    "id": "tt0482870:1:20",
+    "title": "Robotboy — Christmas Evil",
+    "season": 1,
+    "episode": 32,
+    "released": "2000-01-01T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0482870/img",
+    "overview": "Robotboy · S01E20"
+   },
+   {
     "id": "tt0419315:0:2",
     "title": "Tabăra Lazlo — Kamp Kringle",
     "season": 1,
-    "episode": 27,
+    "episode": 33,
     "released": "2007-12-07T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0419315/img",
     "overview": "Tabăra Lazlo · S00E02 · special"
    },
    {
+    "id": "tt0255768:4:51",
+    "title": "Ursul Yogi — Yogi Bear's All Star Comedy Christmas Caper",
+    "season": 1,
+    "episode": 34,
+    "released": "2000-01-01T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0255768/img",
+    "overview": "Ursul Yogi · S04E51 · special 1982"
+   },
+   {
+    "id": "tt0424603:1:28",
+    "title": "Atomic Betty — Winter Carnival",
+    "season": 2,
+    "episode": 1,
+    "released": "2000-01-01T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0424603/img",
+    "overview": "Atomic Betty · S01E28"
+   },
+   {
+    "id": "tt0424603:1:37",
+    "title": "Atomic Betty — No Business Like Snow Business",
+    "season": 2,
+    "episode": 2,
+    "released": "2000-01-01T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0424603/img",
+    "overview": "Atomic Betty · S01E37"
+   },
+   {
     "id": "tt0292800:0:21",
     "title": "Aventurile lui Billy și Mandy — Frozey the Snowman (probabil)",
     "season": 2,
-    "episode": 1,
+    "episode": 3,
     "released": "2000-01-01T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0292800/img",
     "overview": "Aventurile lui Billy și Mandy · S00E21 · scurtmetraj"
@@ -269,7 +350,7 @@
     "id": "tt0306274:1:1",
     "title": "Ce e nou, Scooby-Doo? — There's No Creature Like Snow Creature",
     "season": 2,
-    "episode": 2,
+    "episode": 4,
     "released": "2002-09-14T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0306274/img",
     "overview": "Ce e nou, Scooby-Doo? · S01E01"
@@ -278,7 +359,7 @@
     "id": "tt0312109:4:17",
     "title": "Clanul Nebunaticilor de Alături — Operation: S.N.O.W.I.N.G.",
     "season": 2,
-    "episode": 3,
+    "episode": 5,
     "released": "2005-05-20T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0312109/img",
     "overview": "Clanul Nebunaticilor de Alături · S04E17"
@@ -287,7 +368,7 @@
     "id": "tt0220880:1:19",
     "title": "Curaj, câinele cel fricos — The Snowman Cometh",
     "season": 2,
-    "episode": 4,
+    "episode": 6,
     "released": "2000-03-09T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0220880/img",
     "overview": "Curaj, câinele cel fricos · S01E19"
@@ -296,7 +377,7 @@
     "id": "tt0220880:3:22",
     "title": "Curaj, câinele cel fricos — Snowman's Revenge",
     "season": 2,
-    "episode": 5,
+    "episode": 7,
     "released": "2002-07-26T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0220880/img",
     "overview": "Curaj, câinele cel fricos · S03E22"
@@ -305,28 +386,55 @@
     "id": "tt0184111:2:25",
     "title": "Ed, Edd și Eddy — Fa-La-La-La-Ed (probabil)",
     "season": 2,
-    "episode": 6,
+    "episode": 8,
     "released": "1999-12-20T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0184111/img",
     "overview": "Ed, Edd și Eddy · S02E25"
    },
    {
+    "id": "tt0053502:3:6",
+    "title": "Familia Flintstone — Here's Snow in Your Eyes",
+    "season": 2,
+    "episode": 9,
+    "released": "2000-01-01T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0053502/img",
+    "overview": "Familia Flintstone · S03E06"
+   },
+   {
     "id": "tt0115157:2:23",
     "title": "Laboratorul lui Dexter — Snowdown",
     "season": 2,
-    "episode": 7,
+    "episode": 10,
     "released": "1997-09-10T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0115157/img",
     "overview": "Laboratorul lui Dexter · S02E23"
    },
    {
+    "id": "tt0063950:1:17",
+    "title": "Scooby-Doo, unde ești? — That's Snow Ghost",
+    "season": 2,
+    "episode": 11,
+    "released": "2000-01-01T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0063950/img",
+    "overview": "Scooby-Doo, unde ești? · S01E17"
+   },
+   {
     "id": "tt0419315:2:9",
     "title": "Tabăra Lazlo — Snow Beans / Irreconcilable Dungferences",
     "season": 2,
-    "episode": 8,
+    "episode": 12,
     "released": "2006-03-17T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0419315/img",
     "overview": "Tabăra Lazlo · S02E09"
+   },
+   {
+    "id": "tt0343314:5:5",
+    "title": "Tinerii Titani — Snowblind",
+    "season": 2,
+    "episode": 13,
+    "released": "2000-01-01T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0343314/img",
+    "overview": "Tinerii Titani · S05E05"
    }
   ]
  }
