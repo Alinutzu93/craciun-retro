@@ -1,0 +1,69 @@
+{
+ "metas": [
+  {
+   "id": "craciunro_tv_craciun",
+   "type": "series",
+   "name": "📺 Canal TV de Crăciun",
+   "poster": "https://images.metahub.space/poster/medium/tt0118360/img",
+   "description": "Episoade de Crăciun de pe Fox Kids, Jetix și Cartoon Network, unul după altul, ca la televizor. Ordinea se schimbă în fiecare zi. Programul de azi (24.12.2026): 43 episoade.",
+   "releaseInfo": "Fox Kids · Jetix · Cartoon Network",
+   "genres": [
+    "Crăciun",
+    "Desene animate",
+    "Retro"
+   ]
+  },
+  {
+   "id": "craciunro_tv_iarna",
+   "type": "series",
+   "name": "❄️ Canal TV de iarnă",
+   "poster": "https://images.metahub.space/poster/medium/tt0118360/img",
+   "description": "Toate episoadele de Crăciun și de iarnă, amestecate. Ordinea se schimbă în fiecare zi. Programul de azi (24.12.2026): 62 episoade.",
+   "releaseInfo": "Fox Kids · Jetix · Cartoon Network",
+   "genres": [
+    "Crăciun",
+    "Desene animate",
+    "Retro"
+   ]
+  },
+  {
+   "id": "craciunro_foxkids",
+   "type": "series",
+   "name": "Fox Kids România — Crăciun",
+   "poster": "https://images.metahub.space/poster/medium/tt0112047/img",
+   "description": "Episoadele de Crăciun (sezonul 1) și de iarnă (sezonul 2) din desenele difuzate pe Fox Kids România (1999–2004). Video-ul vine de la addon-urile de stream instalate.",
+   "releaseInfo": "1999–2004",
+   "genres": [
+    "Crăciun",
+    "Desene animate",
+    "Retro"
+   ]
+  },
+  {
+   "id": "craciunro_jetix",
+   "type": "series",
+   "name": "Jetix România — Crăciun",
+   "poster": "https://images.metahub.space/poster/medium/tt0283226/img",
+   "description": "Episoadele de Crăciun (sezonul 1) și de iarnă (sezonul 2) din desenele difuzate pe Jetix România (2005–2009). Video-ul vine de la addon-urile de stream instalate.",
+   "releaseInfo": "2005–2009",
+   "genres": [
+    "Crăciun",
+    "Desene animate",
+    "Retro"
+   ]
+  },
+  {
+   "id": "craciunro_cn",
+   "type": "series",
+   "name": "Cartoon Network — Crăciun",
+   "poster": "https://images.metahub.space/poster/medium/tt0115157/img",
+   "description": "Episoadele de Crăciun (sezonul 1) și de iarnă (sezonul 2) din desenele difuzate pe Cartoon Network (1996–2010). Video-ul vine de la addon-urile de stream instalate.",
+   "releaseInfo": "1996–2010",
+   "genres": [
+    "Crăciun",
+    "Desene animate",
+    "Retro"
+   ]
+  }
+ ]
+}

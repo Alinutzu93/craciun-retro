@@ -1,0 +1,132 @@
+# -*- coding: utf-8 -*-
+"""Datele addon-ului „Crăciun retro”.
+
+Episoadele au fost verificate pe Cinemeta (numerotarea IMDb folosită de Stremio),
+22.11.2026. Titlurile episoadelor rămân în engleză: titlurile din dublajul românesc
+nu au putut fi verificate.
+
+tip:   "C" = Crăciun, "I" = iarnă/zăpadă (fără Crăciun explicit)
+sigur: True  = episodul e clar despre Crăciun/iarnă
+       False = probabil (titlu sau descriere sugestivă, ori difuzare în RO nesigură)
+"""
+
+CANALE = {
+    "foxkids": {"nume": "Fox Kids România", "perioada": "1999–2004"},
+    "jetix": {"nume": "Jetix România", "perioada": "2005–2009"},
+    "cn": {"nume": "Cartoon Network", "perioada": "1996–2010"},
+}
+
+# tt -> (canal, titlu RO, titlu original)
+SERIALE = {
+    # Fox Kids
+    "tt0112047": ("foxkids", "Viața cu Louie", "Life with Louie"),
+    "tt0103408": ("foxkids", "Pisoiul Eek", "Eek! The Cat"),
+    "tt0112196": ("foxkids", "Nemaipomenitul Tick", "The Tick"),
+    "tt0103584": ("foxkids", "X-Men", "X-Men"),
+    "tt0168366": ("foxkids", "Pokémon", "Pokémon"),
+    "tt0172031": ("foxkids", "Noua Familie Addams", "The New Addams Family"),
+    "tt0103373": ("foxkids", "Lumea lui Bobby", "Bobby's World"),
+    "tt0166910": ("foxkids", "Dennis, pericol public", "Dennis the Menace"),
+    "tt0289036": ("foxkids", "Ce-i cu Andy?", "What's with Andy?"),
+    # Jetix
+    "tt0283226": ("jetix", "Spioanele", "Totally Spies!"),
+    "tt0278866": ("jetix", "Kim Possible", "Kim Possible"),
+    "tt0429305": ("jetix", "Dragonul American: Jake Long", "American Dragon: Jake Long"),
+    "tt0855673": ("jetix", "Yin Yang Yo!", "Yin Yang Yo!"),
+    # Cartoon Network
+    "tt0115157": ("cn", "Laboratorul lui Dexter", "Dexter's Laboratory"),
+    "tt0118360": ("cn", "Johnny Bravo", "Johnny Bravo"),
+    "tt0175058": ("cn", "Fetițele Powerpuff", "The Powerpuff Girls"),
+    "tt0184111": ("cn", "Ed, Edd și Eddy", "Ed, Edd n Eddy"),
+    "tt0292800": ("cn", "Aventurile lui Billy și Mandy", "The Grim Adventures of Billy & Mandy"),
+    "tt0419326": ("cn", "Casa Foster pentru prieteni imaginari", "Foster's Home for Imaginary Friends"),
+    "tt0312109": ("cn", "Clanul Nebunaticilor de Alături", "Codename: Kids Next Door"),
+    "tt0760437": ("cn", "Ben 10", "Ben 10"),
+    "tt0275137": ("cn", "Liga Dreptății", "Justice League"),
+    "tt0103359": ("cn", "Batman: Seria animată", "Batman: The Animated Series"),
+    "tt0112123": ("cn", "Pinky și Creierul", "Pinky and the Brain"),
+    "tt0105941": ("cn", "Animaniacii", "Animaniacs"),
+    "tt0306274": ("cn", "Ce e nou, Scooby-Doo?", "What's New, Scooby-Doo?"),
+    "tt0055683": ("cn", "Familia Jetson", "The Jetsons"),
+    "tt0053502": ("cn", "Familia Flintstone", "The Flintstones"),
+    "tt0419315": ("cn", "Tabăra Lazlo", "Camp Lazlo!"),
+    "tt0451461": ("cn", "Colegul meu de sală e o maimuță", "My Gym Partner's a Monkey"),
+    "tt1140100": ("cn", "Chowder", "Chowder"),
+    "tt1178180": ("cn", "Peripețiile lui Flapjack", "The Marvelous Misadventures of Flapjack"),
+    "tt0220880": ("cn", "Curaj, câinele cel fricos", "Courage the Cowardly Dog"),
+}
+
+# (tt serial, sezon, episod, titlu original, data, tip, sigur, notă)
+EPISOADE = [
+    # ---------------- Fox Kids ----------------
+    ("tt0112047", 1, 1, "A Christmas Surprise for Mrs. Stillman", "1994-12-24", "C", True, ""),
+    ("tt0112047", 2, 3, "Anderson Ski Weekend", "1996-09-28", "I", True, ""),
+    ("tt0103408", 2, 14, "It's a Very Merry Eek's-mas", "1993-12-18", "C", True, ""),
+    ("tt0103408", 1, 13, "It's a Wonderful Nine Lives", "1992-12-04", "C", False, "parodie după «It's a Wonderful Life»"),
+    ("tt0112196", 2, 10, "The Tick Loves Santa!", "1995-11-25", "C", True, ""),
+    ("tt0103584", 4, 12, "Have Yourself a Morlock Little X-Mas", "1995-12-23", "C", True, ""),
+    ("tt0168366", 1, 65, "Holiday Hi-Jynx", "1998-10-05", "C", True, ""),
+    ("tt0168366", 0, 36, "Pikachu's Winter Vacation (Christmas Night & Kanga Games)", "1998-12-22", "C", False, "scurtmetraj; difuzarea în RO nesigură"),
+    ("tt0168366", 0, 37, "Pikachu's Winter Vacation (Winter Games & Stantler's Little Helpers)", "1999-12-22", "I", False, "scurtmetraj; difuzarea în RO nesigură"),
+    ("tt0172031", 1, 27, "Christmas with the Addams Family", "1998-12-07", "C", True, ""),
+    ("tt0103373", 6, 5, "Miracle on 34th St. & Rural Route 1", "1995-12-22", "C", False, "titlu după un film de Crăciun"),
+    ("tt0103373", 6, 7, "Bobby, Lord of the Slopes", "1996-02-12", "I", False, ""),
+    ("tt0166910", 1, 10, "Dennis' Yard Sale / The Abominable Snow Menace / ...", "1986-10-03", "I", True, ""),
+    ("tt0166910", 1, 11, "Snowman Madness / The Invisible Kid / Home Destruction", "1986-10-06", "I", True, ""),
+    ("tt0166910", 2, 6, "Snow Wars / The Moroccan Pigeon / Dennis of the Jungle", "", "I", True, ""),
+    ("tt0289036", 1, 14, "Merry Chaos", "2001-12-15", "C", True, ""),
+    ("tt0289036", 1, 18, "Gnome For the Holidays", "2002-01-27", "C", False, ""),
+    ("tt0289036", 1, 20, "Road Trip / Snow Job", "2002-02-17", "I", True, ""),
+    ("tt0289036", 2, 11, "Don't Eat the Yellow Snow", "2003-11-12", "I", True, ""),
+    # ---------------- Jetix ----------------
+    ("tt0283226", 3, 14, "Evil G.L.A.D.I.S. Much?", "2005-03-27", "C", False, "are o petrecere de Crăciun"),
+    ("tt0283226", 2, 21, "Ski Trip", "2004-04-29", "I", True, ""),
+    ("tt0283226", 5, 23, "Ho-ho-ho-No!", "2010-05-26", "C", False, "sezonul 5 a apărut după închiderea Jetix"),
+    ("tt0278866", 2, 15, "A Very Possible Christmas", "2003-12-05", "C", True, "blocul Disney Stars, din 2008"),
+    ("tt0278866", 2, 14, "Day of the Snowmen", "2003-11-14", "I", True, "blocul Disney Stars, din 2008"),
+    ("tt0429305", 2, 16, "Hairy Christmas", "2006-12-17", "C", True, "blocul Disney Stars, din 2008"),
+    ("tt0855673", 2, 55, "Season's Beatings", "2008-11-24", "C", False, "difuzarea în RO nesigură"),
+    ("tt0855673", 1, 18, "Scarf It Up!", "2006-09-08", "I", False, "difuzarea în RO nesigură"),
+    # ---------------- Cartoon Network ----------------
+    ("tt0115157", 2, 105, "Dexter Vs. Santa's Claws", "1998-04-29", "C", True, ""),
+    ("tt0115157", 2, 23, "Snowdown", "1997-09-10", "I", True, ""),
+    ("tt0118360", 1, 14, "'Twas The Night", "1997-08-04", "C", True, ""),
+    ("tt0118360", 3, 52, "A Johnny Bravo Christmas", "2001-12-21", "C", True, ""),
+    ("tt0175058", 0, 5, "'Twas the Fight Before Christmas", "2003-12-12", "C", True, "special"),
+    ("tt0184111", 0, 2, "Ed, Edd n Eddy's Jingle Jingle Jangle", "2004-12-03", "C", True, "special"),
+    ("tt0184111", 2, 25, "Fa-La-La-La-Ed", "1999-12-20", "I", False, ""),
+    ("tt0292800", 5, 11, "Billy & Mandy Save Christmas", "2005-12-11", "C", True, ""),
+    ("tt0292800", 0, 21, "Frozey the Snowman", "", "I", False, "scurtmetraj"),
+    ("tt0419326", 3, 10, "A Lost Claus", "2005-12-01", "C", True, ""),
+    ("tt0312109", 5, 1, "Operation: N.A.U.G.H.T.Y.", "2005-12-16", "C", True, ""),
+    ("tt0312109", 4, 17, "Operation: S.N.O.W.I.N.G.", "2005-05-20", "I", True, ""),
+    ("tt0760437", 3, 4, "Merry Christmas", "2006-12-11", "C", True, ""),
+    ("tt0275137", 2, 23, "Comfort and Joy", "2003-12-13", "C", True, ""),
+    ("tt0103359", 1, 38, "Christmas with the Joker", "1992-11-13", "C", True, ""),
+    ("tt0112123", 1, 12, "A Pinky And The Brain Christmas", "1995-12-13", "C", True, ""),
+    ("tt0105941", 1, 117, "'Twas the Day Before Christmas", "1993-11-29", "C", True, "segment"),
+    ("tt0105941", 1, 118, "Jingle Boo", "1993-11-29", "C", True, "segment"),
+    ("tt0105941", 1, 119, "The Great Wakkorotti: The Holiday Concert", "1993-11-29", "C", True, "segment"),
+    ("tt0105941", 1, 121, "A Christmas Plotz", "1993-12-06", "C", True, "segment"),
+    ("tt0105941", 4, 4, "Noel", "1996-09-07", "C", True, ""),
+    ("tt0105941", 5, 14, "The Christmas Tree", "1997-12-20", "C", True, ""),
+    ("tt0306274", 1, 14, "A Scooby Christmas", "2002-12-13", "C", True, ""),
+    ("tt0306274", 1, 1, "There's No Creature Like Snow Creature", "2002-09-14", "I", True, ""),
+    ("tt0055683", 2, 18, "A Jetson Christmas Carol", "1985-04-13", "C", True, ""),
+    ("tt0053502", 5, 15, "Christmas Flintstone", "1964-12-25", "C", True, ""),
+    ("tt0053502", 0, 4, "A Flintstone Christmas", "1977-12-07", "C", False, "special; difuzarea în RO nesigură"),
+    ("tt0053502", 0, 15, "A Flintstones Christmas Carol", "1994-11-21", "C", False, "special; difuzarea în RO nesigură"),
+    ("tt0419315", 0, 2, "Kamp Kringle", "2007-12-07", "C", True, "special"),
+    ("tt0419315", 2, 9, "Snow Beans / Irreconcilable Dungferences", "2006-03-17", "I", True, ""),
+    ("tt0451461", 2, 17, "Have Yourself a Joyful Little Animas", "2006-09-23", "C", True, ""),
+    ("tt1140100", 2, 7, "Hey Hey It's Knishmas", "2008-12-04", "C", True, ""),
+    ("tt1178180", 2, 23, "Low Tidings", "2009-12-03", "C", True, "difuzat în RO probabil în 2010"),
+    ("tt0220880", 1, 19, "The Snowman Cometh", "2000-03-09", "I", True, ""),
+    ("tt0220880", 3, 22, "Snowman's Revenge", "2002-07-26", "I", True, ""),
+]
+
+# Speciale de lung metraj (tip film în IMDb): (tt, canal, titlu RO, titlu original, an)
+FILME = [
+    ("tt0285225", "foxkids", "Inspectorul Gadget salvează Crăciunul", "Inspector Gadget Saves Christmas", 1992),
+    ("tt0199161", "cn", "Primul Crăciun al lui Yogi", "Yogi's First Christmas", 1980),
+]

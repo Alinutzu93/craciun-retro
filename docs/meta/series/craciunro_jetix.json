@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "id": "craciunro_jetix",
+  "type": "series",
+  "name": "Jetix România — Crăciun",
+  "poster": "https://images.metahub.space/poster/medium/tt0283226/img",
+  "background": "https://images.metahub.space/background/medium/tt0283226/img",
+  "description": "Episoadele de Crăciun (sezonul 1) și de iarnă (sezonul 2) din desenele difuzate pe Jetix România (2005–2009). Video-ul vine de la addon-urile de stream instalate.",
+  "releaseInfo": "2005–2009",
+  "genres": [
+   "Crăciun",
+   "Desene animate",
+   "Retro"
+  ],
+  "videos": [
+   {
+    "id": "tt0429305:2:16",
+    "title": "Dragonul American: Jake Long — Hairy Christmas",
+    "season": 1,
+    "episode": 1,
+    "released": "2006-12-17T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0429305/img",
+    "overview": "Dragonul American: Jake Long · S02E16 · blocul Disney Stars, din 2008"
+   },
+   {
+    "id": "tt0278866:2:15",
+    "title": "Kim Possible — A Very Possible Christmas",
+    "season": 1,
+    "episode": 2,
+    "released": "2003-12-05T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0278866/img",
+    "overview": "Kim Possible · S02E15 · blocul Disney Stars, din 2008"
+   },
+   {
+    "id": "tt0283226:3:14",
+    "title": "Spioanele — Evil G.L.A.D.I.S. Much? (probabil)",
+    "season": 1,
+    "episode": 3,
+    "released": "2005-03-27T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0283226/img",
+    "overview": "Spioanele · S03E14 · are o petrecere de Crăciun"
+   },
+   {
+    "id": "tt0283226:5:23",
+    "title": "Spioanele — Ho-ho-ho-No! (probabil)",
+    "season": 1,
+    "episode": 4,
+    "released": "2010-05-26T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0283226/img",
+    "overview": "Spioanele · S05E23 · sezonul 5 a apărut după închiderea Jetix"
+   },
+   {
+    "id": "tt0855673:2:55",
+    "title": "Yin Yang Yo! — Season's Beatings (probabil)",
+    "season": 1,
+    "episode": 5,
+    "released": "2008-11-24T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0855673/img",
+    "overview": "Yin Yang Yo! · S02E55 · difuzarea în RO nesigură"
+   },
+   {
+    "id": "tt0278866:2:14",
+    "title": "Kim Possible — Day of the Snowmen",
+    "season": 2,
+    "episode": 1,
+    "released": "2003-11-14T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0278866/img",
+    "overview": "Kim Possible · S02E14 · blocul Disney Stars, din 2008"
+   },
+   {
+    "id": "tt0283226:2:21",
+    "title": "Spioanele — Ski Trip",
+    "season": 2,
+    "episode": 2,
+    "released": "2004-04-29T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0283226/img",
+    "overview": "Spioanele · S02E21"
+   },
+   {
+    "id": "tt0855673:1:18",
+    "title": "Yin Yang Yo! — Scarf It Up! (probabil)",
+    "season": 2,
+    "episode": 3,
+    "released": "2006-09-08T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0855673/img",
+    "overview": "Yin Yang Yo! · S01E18 · difuzarea în RO nesigură"
+   }
+  ]
+ }
+}

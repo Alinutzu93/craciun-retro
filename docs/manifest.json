@@ -1,0 +1,42 @@
+{
+ "id": "ro.alin.craciunretro",
+ "version": "1.0.0",
+ "name": "Crăciun retro — Fox Kids, Jetix, Cartoon Network",
+ "description": "Episoadele de Crăciun din desenele copilăriei (România, 1996–2010), pe canale și ca program TV. Video-ul vine de la addon-urile de stream pe care le ai instalate.",
+ "logo": "https://images.metahub.space/poster/medium/tt0118360/img",
+ "background": "https://images.metahub.space/background/medium/tt0115157/img",
+ "types": [
+  "series",
+  "movie"
+ ],
+ "resources": [
+  "catalog",
+  {
+   "name": "meta",
+   "types": [
+    "series"
+   ],
+   "idPrefixes": [
+    "craciunro_"
+   ]
+  }
+ ],
+ "idPrefixes": [
+  "craciunro_"
+ ],
+ "catalogs": [
+  {
+   "type": "series",
+   "id": "craciunro_canale",
+   "name": "🎄 Crăciun retro"
+  },
+  {
+   "type": "movie",
+   "id": "craciunro_filme",
+   "name": "🎄 Speciale de Crăciun retro"
+  }
+ ],
+ "behaviorHints": {
+  "configurable": false
+ }
+}

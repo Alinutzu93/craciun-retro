@@ -1,0 +1,189 @@
+{
+ "meta": {
+  "id": "craciunro_foxkids",
+  "type": "series",
+  "name": "Fox Kids România — Crăciun",
+  "poster": "https://images.metahub.space/poster/medium/tt0112047/img",
+  "background": "https://images.metahub.space/background/medium/tt0112047/img",
+  "description": "Episoadele de Crăciun (sezonul 1) și de iarnă (sezonul 2) din desenele difuzate pe Fox Kids România (1999–2004). Video-ul vine de la addon-urile de stream instalate.",
+  "releaseInfo": "1999–2004",
+  "genres": [
+   "Crăciun",
+   "Desene animate",
+   "Retro"
+  ],
+  "videos": [
+   {
+    "id": "tt0289036:1:14",
+    "title": "Ce-i cu Andy? — Merry Chaos",
+    "season": 1,
+    "episode": 1,
+    "released": "2001-12-15T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0289036/img",
+    "overview": "Ce-i cu Andy? · S01E14"
+   },
+   {
+    "id": "tt0289036:1:18",
+    "title": "Ce-i cu Andy? — Gnome For the Holidays (probabil)",
+    "season": 1,
+    "episode": 2,
+    "released": "2002-01-27T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0289036/img",
+    "overview": "Ce-i cu Andy? · S01E18"
+   },
+   {
+    "id": "tt0103373:6:5",
+    "title": "Lumea lui Bobby — Miracle on 34th St. & Rural Route 1 (probabil)",
+    "season": 1,
+    "episode": 3,
+    "released": "1995-12-22T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0103373/img",
+    "overview": "Lumea lui Bobby · S06E05 · titlu după un film de Crăciun"
+   },
+   {
+    "id": "tt0112196:2:10",
+    "title": "Nemaipomenitul Tick — The Tick Loves Santa!",
+    "season": 1,
+    "episode": 4,
+    "released": "1995-11-25T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0112196/img",
+    "overview": "Nemaipomenitul Tick · S02E10"
+   },
+   {
+    "id": "tt0172031:1:27",
+    "title": "Noua Familie Addams — Christmas with the Addams Family",
+    "season": 1,
+    "episode": 5,
+    "released": "1998-12-07T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0172031/img",
+    "overview": "Noua Familie Addams · S01E27"
+   },
+   {
+    "id": "tt0103408:1:13",
+    "title": "Pisoiul Eek — It's a Wonderful Nine Lives (probabil)",
+    "season": 1,
+    "episode": 6,
+    "released": "1992-12-04T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0103408/img",
+    "overview": "Pisoiul Eek · S01E13 · parodie după «It's a Wonderful Life»"
+   },
+   {
+    "id": "tt0103408:2:14",
+    "title": "Pisoiul Eek — It's a Very Merry Eek's-mas",
+    "season": 1,
+    "episode": 7,
+    "released": "1993-12-18T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0103408/img",
+    "overview": "Pisoiul Eek · S02E14"
+   },
+   {
+    "id": "tt0168366:0:36",
+    "title": "Pokémon — Pikachu's Winter Vacation (Christmas Night & Kanga Games) (probabil)",
+    "season": 1,
+    "episode": 8,
+    "released": "1998-12-22T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0168366/img",
+    "overview": "Pokémon · S00E36 · scurtmetraj; difuzarea în RO nesigură"
+   },
+   {
+    "id": "tt0168366:1:65",
+    "title": "Pokémon — Holiday Hi-Jynx",
+    "season": 1,
+    "episode": 9,
+    "released": "1998-10-05T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0168366/img",
+    "overview": "Pokémon · S01E65"
+   },
+   {
+    "id": "tt0112047:1:1",
+    "title": "Viața cu Louie — A Christmas Surprise for Mrs. Stillman",
+    "season": 1,
+    "episode": 10,
+    "released": "1994-12-24T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0112047/img",
+    "overview": "Viața cu Louie · S01E01"
+   },
+   {
+    "id": "tt0103584:4:12",
+    "title": "X-Men — Have Yourself a Morlock Little X-Mas",
+    "season": 1,
+    "episode": 11,
+    "released": "1995-12-23T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0103584/img",
+    "overview": "X-Men · S04E12"
+   },
+   {
+    "id": "tt0289036:1:20",
+    "title": "Ce-i cu Andy? — Road Trip / Snow Job",
+    "season": 2,
+    "episode": 1,
+    "released": "2002-02-17T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0289036/img",
+    "overview": "Ce-i cu Andy? · S01E20"
+   },
+   {
+    "id": "tt0289036:2:11",
+    "title": "Ce-i cu Andy? — Don't Eat the Yellow Snow",
+    "season": 2,
+    "episode": 2,
+    "released": "2003-11-12T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0289036/img",
+    "overview": "Ce-i cu Andy? · S02E11"
+   },
+   {
+    "id": "tt0166910:1:10",
+    "title": "Dennis, pericol public — Dennis' Yard Sale / The Abominable Snow Menace / ...",
+    "season": 2,
+    "episode": 3,
+    "released": "1986-10-03T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0166910/img",
+    "overview": "Dennis, pericol public · S01E10"
+   },
+   {
+    "id": "tt0166910:1:11",
+    "title": "Dennis, pericol public — Snowman Madness / The Invisible Kid / Home Destruction",
+    "season": 2,
+    "episode": 4,
+    "released": "1986-10-06T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0166910/img",
+    "overview": "Dennis, pericol public · S01E11"
+   },
+   {
+    "id": "tt0166910:2:6",
+    "title": "Dennis, pericol public — Snow Wars / The Moroccan Pigeon / Dennis of the Jungle",
+    "season": 2,
+    "episode": 5,
+    "released": "2000-01-01T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0166910/img",
+    "overview": "Dennis, pericol public · S02E06"
+   },
+   {
+    "id": "tt0103373:6:7",
+    "title": "Lumea lui Bobby — Bobby, Lord of the Slopes (probabil)",
+    "season": 2,
+    "episode": 6,
+    "released": "1996-02-12T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0103373/img",
+    "overview": "Lumea lui Bobby · S06E07"
+   },
+   {
+    "id": "tt0168366:0:37",
+    "title": "Pokémon — Pikachu's Winter Vacation (Winter Games & Stantler's Little Helpers) (probabil)",
+    "season": 2,
+    "episode": 7,
+    "released": "1999-12-22T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0168366/img",
+    "overview": "Pokémon · S00E37 · scurtmetraj; difuzarea în RO nesigură"
+   },
+   {
+    "id": "tt0112047:2:3",
+    "title": "Viața cu Louie — Anderson Ski Weekend",
+    "season": 2,
+    "episode": 8,
+    "released": "1996-09-28T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0112047/img",
+    "overview": "Viața cu Louie · S02E03"
+   }
+  ]
+ }
+}
