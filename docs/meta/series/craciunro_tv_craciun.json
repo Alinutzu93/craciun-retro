@@ -5,7 +5,7 @@
   "name": "📺 Canal TV de Crăciun",
   "poster": "https://images.metahub.space/poster/medium/tt0118360/img",
   "background": "https://images.metahub.space/background/medium/tt0115157/img",
-  "description": "Episoade de Crăciun de pe Fox Kids, Jetix și Cartoon Network, unul după altul, ca la televizor. Ordinea se schimbă în fiecare zi. Programul de azi (24.11.2026): 66 episoade.",
+  "description": "Episoade de Crăciun de pe Fox Kids, Jetix și Cartoon Network, unul după altul, ca la televizor. Ordinea se schimbă în fiecare zi. Programul de azi (25.11.2026): 66 episoade.",
   "releaseInfo": "Fox Kids · Jetix · Cartoon Network",
   "genres": [
    "Crăciun",
@@ -14,254 +14,11 @@
   ],
   "videos": [
    {
-    "id": "tt0795256:1:30",
-    "title": "Pucca — Secret Santa",
-    "season": 1,
-    "episode": 1,
-    "released": "2000-01-01T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0795256/img",
-    "overview": "Pucca · S01E30"
-   },
-   {
-    "id": "tt0105941:1:117",
-    "title": "Animaniacii — 'Twas the Day Before Christmas",
-    "season": 1,
-    "episode": 2,
-    "released": "2000-01-02T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0105941/img",
-    "overview": "Animaniacii · S01E117 · segment"
-   },
-   {
-    "id": "tt0098891:1:8",
-    "title": "Aventurile lui Peter Pan — Hook's Christmas",
-    "season": 1,
-    "episode": 3,
-    "released": "2000-01-03T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0098891/img",
-    "overview": "Aventurile lui Peter Pan · S01E08"
-   },
-   {
-    "id": "tt0292800:5:11",
-    "title": "Aventurile lui Billy și Mandy — Billy & Mandy Save Christmas",
-    "season": 1,
-    "episode": 4,
-    "released": "2000-01-04T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0292800/img",
-    "overview": "Aventurile lui Billy și Mandy · S05E11"
-   },
-   {
-    "id": "tt0103373:6:5",
-    "title": "Lumea lui Bobby — Miracle on 34th St. & Rural Route 1 (probabil)",
-    "season": 1,
-    "episode": 5,
-    "released": "2000-01-05T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0103373/img",
-    "overview": "Lumea lui Bobby · S06E05 · titlu după un film de Crăciun"
-   },
-   {
-    "id": "tt0112123:1:12",
-    "title": "Pinky și Creierul — A Pinky And The Brain Christmas",
-    "season": 1,
-    "episode": 6,
-    "released": "2000-01-06T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0112123/img",
-    "overview": "Pinky și Creierul · S01E12"
-   },
-   {
-    "id": "tt0795256:2:32",
-    "title": "Pucca — Jingle Cans (probabil)",
-    "season": 1,
-    "episode": 7,
-    "released": "2000-01-07T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0795256/img",
-    "overview": "Pucca · S02E32"
-   },
-   {
-    "id": "tt0053502:5:15",
-    "title": "Familia Flintstone — Christmas Flintstone",
-    "season": 1,
-    "episode": 8,
-    "released": "2000-01-08T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0053502/img",
-    "overview": "Familia Flintstone · S05E15"
-   },
-   {
-    "id": "tt0283226:5:23",
-    "title": "Spioanele — Ho-ho-ho-No! (probabil)",
-    "season": 1,
-    "episode": 9,
-    "released": "2000-01-09T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0283226/img",
-    "overview": "Spioanele · S05E23 · sezonul 5 a apărut după închiderea Jetix"
-   },
-   {
-    "id": "tt0285371:2:18",
-    "title": "Heathcliff — Christmas Memories",
-    "season": 1,
-    "episode": 10,
-    "released": "2000-01-10T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0285371/img",
-    "overview": "Heathcliff · S02E18"
-   },
-   {
-    "id": "tt0855673:2:55",
-    "title": "Yin Yang Yo! — Season's Beatings (probabil)",
-    "season": 1,
-    "episode": 11,
-    "released": "2000-01-11T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0855673/img",
-    "overview": "Yin Yang Yo! · S02E55 · difuzarea în RO nesigură"
-   },
-   {
-    "id": "tt0767914:2:9",
-    "title": "Class of 3000 — The Class of 3000 Christmas Special (Part 1)",
-    "season": 1,
-    "episode": 12,
-    "released": "2000-01-12T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0767914/img",
-    "overview": "Class of 3000 · S02E09"
-   },
-   {
-    "id": "tt1307224:1:26",
-    "title": "Kid vs. Kat — Kid vs. Kat vs. Christmas (1 & 2)",
-    "season": 1,
-    "episode": 13,
-    "released": "2000-01-13T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt1307224/img",
-    "overview": "Kid vs. Kat · S01E26"
-   },
-   {
-    "id": "tt0419326:3:10",
-    "title": "Casa Foster pentru prieteni imaginari — A Lost Claus",
-    "season": 1,
-    "episode": 14,
-    "released": "2000-01-14T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0419326/img",
-    "overview": "Casa Foster pentru prieteni imaginari · S03E10"
-   },
-   {
-    "id": "tt0387741:2:9",
-    "title": "Gadget și Gadgetinii — Santa Claw",
-    "season": 1,
-    "episode": 15,
-    "released": "2000-01-15T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0387741/img",
-    "overview": "Gadget și Gadgetinii · S02E09"
-   },
-   {
-    "id": "tt1178180:2:23",
-    "title": "Peripețiile lui Flapjack — Low Tidings",
-    "season": 1,
-    "episode": 16,
-    "released": "2000-01-16T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt1178180/img",
-    "overview": "Peripețiile lui Flapjack · S02E23 · difuzat în RO probabil în 2010"
-   },
-   {
-    "id": "tt0168366:1:65",
-    "title": "Pokémon — Holiday Hi-Jynx",
-    "season": 1,
-    "episode": 17,
-    "released": "2000-01-17T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0168366/img",
-    "overview": "Pokémon · S01E65"
-   },
-   {
-    "id": "tt0306274:1:14",
-    "title": "Ce e nou, Scooby-Doo? — A Scooby Christmas",
-    "season": 1,
-    "episode": 18,
-    "released": "2000-01-18T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0306274/img",
-    "overview": "Ce e nou, Scooby-Doo? · S01E14"
-   },
-   {
-    "id": "tt0852863:2:37",
-    "title": "Phineas și Ferb — Phineas and Ferb's Christmas Vacation (probabil)",
-    "season": 1,
-    "episode": 19,
-    "released": "2000-01-19T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0852863/img",
-    "overview": "Phineas și Ferb · S02E37 · apărut după închiderea Jetix"
-   },
-   {
-    "id": "tt0053502:0:15",
-    "title": "Familia Flintstone — A Flintstones Christmas Carol (probabil)",
-    "season": 1,
-    "episode": 20,
-    "released": "2000-01-20T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0053502/img",
-    "overview": "Familia Flintstone · S00E15 · special; difuzarea în RO nesigură"
-   },
-   {
-    "id": "tt0242210:2:12",
-    "title": "Copiii de la 402 — A Very Nancy Christmas",
-    "season": 1,
-    "episode": 21,
-    "released": "2000-01-21T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0242210/img",
-    "overview": "Copiii de la 402 · S02E12"
-   },
-   {
-    "id": "tt0419322:1:14",
-    "title": "Evil Con Carne — Christmas Con Carne",
-    "season": 1,
-    "episode": 22,
-    "released": "2000-01-22T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0419322/img",
-    "overview": "Evil Con Carne · S01E14"
-   },
-   {
-    "id": "tt0374419:3:18",
-    "title": "Martin Mystery — All I Want for X-mas",
-    "season": 1,
-    "episode": 23,
-    "released": "2000-01-23T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0374419/img",
-    "overview": "Martin Mystery · S03E18"
-   },
-   {
-    "id": "tt0255768:4:51",
-    "title": "Ursul Yogi — Yogi Bear's All Star Comedy Christmas Caper",
-    "season": 1,
-    "episode": 24,
-    "released": "2000-01-24T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0255768/img",
-    "overview": "Ursul Yogi · S04E51 · special 1982"
-   },
-   {
-    "id": "tt0278866:2:15",
-    "title": "Kim Possible — A Very Possible Christmas",
-    "season": 1,
-    "episode": 25,
-    "released": "2000-01-25T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0278866/img",
-    "overview": "Kim Possible · S02E15 · blocul Disney Stars, din 2008"
-   },
-   {
-    "id": "tt0105941:4:4",
-    "title": "Animaniacii — Noel",
-    "season": 1,
-    "episode": 26,
-    "released": "2000-01-26T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0105941/img",
-    "overview": "Animaniacii · S04E04"
-   },
-   {
-    "id": "tt0289036:1:14",
-    "title": "Ce-i cu Andy? — Merry Chaos",
-    "season": 1,
-    "episode": 27,
-    "released": "2000-01-27T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0289036/img",
-    "overview": "Ce-i cu Andy? · S01E14"
-   },
-   {
     "id": "tt0424603:1:49",
     "title": "Atomic Betty — Jingle Brawls",
     "season": 1,
-    "episode": 28,
-    "released": "2000-01-28T00:00:00.000Z",
+    "episode": 1,
+    "released": "2000-01-01T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0424603/img",
     "overview": "Atomic Betty · S01E49"
    },
@@ -269,116 +26,179 @@
     "id": "tt0103408:1:13",
     "title": "Pisoiul Eek — It's a Wonderful Nine Lives (probabil)",
     "season": 1,
-    "episode": 29,
-    "released": "2000-01-29T00:00:00.000Z",
+    "episode": 2,
+    "released": "2000-01-02T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0103408/img",
     "overview": "Pisoiul Eek · S01E13 · parodie după «It's a Wonderful Life»"
    },
    {
-    "id": "tt0275137:2:23",
-    "title": "Liga Dreptății — Comfort and Joy",
+    "id": "tt0105941:1:118",
+    "title": "Animaniacii — Jingle Boo",
     "season": 1,
-    "episode": 30,
-    "released": "2000-01-30T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0275137/img",
-    "overview": "Liga Dreptății · S02E23"
+    "episode": 3,
+    "released": "2000-01-03T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0105941/img",
+    "overview": "Animaniacii · S01E118 · segment"
    },
    {
-    "id": "tt1353145:1:16",
-    "title": "Monster Buster Club — Secret Santa",
+    "id": "tt0289036:1:14",
+    "title": "Ce-i cu Andy? — Merry Chaos",
     "season": 1,
-    "episode": 31,
-    "released": "2000-01-31T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt1353145/img",
-    "overview": "Monster Buster Club · S01E16"
+    "episode": 4,
+    "released": "2000-01-04T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0289036/img",
+    "overview": "Ce-i cu Andy? · S01E14"
+   },
+   {
+    "id": "tt0283226:3:14",
+    "title": "Spioanele — Evil G.L.A.D.I.S. Much? (probabil)",
+    "season": 1,
+    "episode": 5,
+    "released": "2000-01-05T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0283226/img",
+    "overview": "Spioanele · S03E14 · are o petrecere de Crăciun"
+   },
+   {
+    "id": "tt0053502:0:15",
+    "title": "Familia Flintstone — A Flintstones Christmas Carol (probabil)",
+    "season": 1,
+    "episode": 6,
+    "released": "2000-01-06T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0053502/img",
+    "overview": "Familia Flintstone · S00E15 · special; difuzarea în RO nesigură"
+   },
+   {
+    "id": "tt0326701:2:9",
+    "title": "Orășelul purceilor — Christmas Ham",
+    "season": 1,
+    "episode": 7,
+    "released": "2000-01-07T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0326701/img",
+    "overview": "Orășelul purceilor · S02E09"
    },
    {
     "id": "tt0055683:2:18",
     "title": "Familia Jetson — A Jetson Christmas Carol",
     "season": 1,
-    "episode": 32,
-    "released": "2000-02-01T00:00:00.000Z",
+    "episode": 8,
+    "released": "2000-01-08T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0055683/img",
     "overview": "Familia Jetson · S02E18"
    },
    {
-    "id": "tt0172031:1:27",
-    "title": "Noua Familie Addams — Christmas with the Addams Family",
+    "id": "tt0795256:2:32",
+    "title": "Pucca — Jingle Cans (probabil)",
     "season": 1,
-    "episode": 33,
-    "released": "2000-02-02T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0172031/img",
-    "overview": "Noua Familie Addams · S01E27"
-   },
-   {
-    "id": "tt1140100:2:7",
-    "title": "Chowder — Hey Hey It's Knishmas",
-    "season": 1,
-    "episode": 34,
-    "released": "2000-02-03T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt1140100/img",
-    "overview": "Chowder · S02E07"
-   },
-   {
-    "id": "tt0204777:2:8",
-    "title": "Dosarele secrete ale câinilor detectivi — DNA / Santa (probabil)",
-    "season": 1,
-    "episode": 35,
-    "released": "2000-02-04T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0204777/img",
-    "overview": "Dosarele secrete ale câinilor detectivi · S02E08"
+    "episode": 9,
+    "released": "2000-01-09T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0795256/img",
+    "overview": "Pucca · S02E32"
    },
    {
     "id": "tt0218769:1:11",
     "title": "Eu sunt Nevăstuica — Happy Baboon Holidays",
     "season": 1,
-    "episode": 36,
-    "released": "2000-02-05T00:00:00.000Z",
+    "episode": 10,
+    "released": "2000-01-10T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0218769/img",
     "overview": "Eu sunt Nevăstuica · S01E11"
+   },
+   {
+    "id": "tt0242210:2:12",
+    "title": "Copiii de la 402 — A Very Nancy Christmas",
+    "season": 1,
+    "episode": 11,
+    "released": "2000-01-11T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0242210/img",
+    "overview": "Copiii de la 402 · S02E12"
+   },
+   {
+    "id": "tt0053502:5:15",
+    "title": "Familia Flintstone — Christmas Flintstone",
+    "season": 1,
+    "episode": 12,
+    "released": "2000-01-12T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0053502/img",
+    "overview": "Familia Flintstone · S05E15"
+   },
+   {
+    "id": "tt0103584:4:12",
+    "title": "X-Men — Have Yourself a Morlock Little X-Mas",
+    "season": 1,
+    "episode": 13,
+    "released": "2000-01-13T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0103584/img",
+    "overview": "X-Men · S04E12"
+   },
+   {
+    "id": "tt0306274:1:14",
+    "title": "Ce e nou, Scooby-Doo? — A Scooby Christmas",
+    "season": 1,
+    "episode": 14,
+    "released": "2000-01-14T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0306274/img",
+    "overview": "Ce e nou, Scooby-Doo? · S01E14"
+   },
+   {
+    "id": "tt1353145:1:16",
+    "title": "Monster Buster Club — Secret Santa",
+    "season": 1,
+    "episode": 15,
+    "released": "2000-01-15T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt1353145/img",
+    "overview": "Monster Buster Club · S01E16"
+   },
+   {
+    "id": "tt0292800:5:11",
+    "title": "Aventurile lui Billy și Mandy — Billy & Mandy Save Christmas",
+    "season": 1,
+    "episode": 16,
+    "released": "2000-01-16T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0292800/img",
+    "overview": "Aventurile lui Billy și Mandy · S05E11"
+   },
+   {
+    "id": "tt0289036:1:18",
+    "title": "Ce-i cu Andy? — Gnome For the Holidays (probabil)",
+    "season": 1,
+    "episode": 17,
+    "released": "2000-01-17T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0289036/img",
+    "overview": "Ce-i cu Andy? · S01E18"
+   },
+   {
+    "id": "tt1140100:2:7",
+    "title": "Chowder — Hey Hey It's Knishmas",
+    "season": 1,
+    "episode": 18,
+    "released": "2000-01-18T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt1140100/img",
+    "overview": "Chowder · S02E07"
    },
    {
     "id": "tt0115674:1:33",
     "title": "Big Bad Beetleborgs — Christmas Bells and Phasm's Spells",
     "season": 1,
-    "episode": 37,
-    "released": "2000-02-06T00:00:00.000Z",
+    "episode": 19,
+    "released": "2000-01-19T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0115674/img",
     "overview": "Big Bad Beetleborgs · S01E33"
    },
    {
-    "id": "tt0105941:1:121",
-    "title": "Animaniacii — A Christmas Plotz",
+    "id": "tt0103359:1:38",
+    "title": "Batman: Seria animată — Christmas with the Joker",
     "season": 1,
-    "episode": 38,
-    "released": "2000-02-07T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0105941/img",
-    "overview": "Animaniacii · S01E121 · segment"
-   },
-   {
-    "id": "tt0112196:2:10",
-    "title": "Nemaipomenitul Tick — The Tick Loves Santa!",
-    "season": 1,
-    "episode": 39,
-    "released": "2000-02-08T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0112196/img",
-    "overview": "Nemaipomenitul Tick · S02E10"
-   },
-   {
-    "id": "tt0482870:1:20",
-    "title": "Robotboy — Christmas Evil",
-    "season": 1,
-    "episode": 40,
-    "released": "2000-02-09T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0482870/img",
-    "overview": "Robotboy · S01E20"
+    "episode": 20,
+    "released": "2000-01-20T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0103359/img",
+    "overview": "Batman: Seria animată · S01E38"
    },
    {
     "id": "tt0283213:1:19",
     "title": "Prințesa Sissi — An Eventful Christmas",
     "season": 1,
-    "episode": 41,
-    "released": "2000-02-10T00:00:00.000Z",
+    "episode": 21,
+    "released": "2000-01-21T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0283213/img",
     "overview": "Prințesa Sissi · S01E19"
    },
@@ -386,91 +206,271 @@
     "id": "tt0184111:0:2",
     "title": "Ed, Edd și Eddy — Ed, Edd n Eddy's Jingle Jingle Jangle",
     "season": 1,
-    "episode": 42,
-    "released": "2000-02-11T00:00:00.000Z",
+    "episode": 22,
+    "released": "2000-01-22T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0184111/img",
     "overview": "Ed, Edd și Eddy · S00E02 · special"
    },
    {
-    "id": "tt0283226:3:14",
-    "title": "Spioanele — Evil G.L.A.D.I.S. Much? (probabil)",
+    "id": "tt0112196:2:10",
+    "title": "Nemaipomenitul Tick — The Tick Loves Santa!",
     "season": 1,
-    "episode": 43,
-    "released": "2000-02-12T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0283226/img",
-    "overview": "Spioanele · S03E14 · are o petrecere de Crăciun"
+    "episode": 23,
+    "released": "2000-01-23T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0112196/img",
+    "overview": "Nemaipomenitul Tick · S02E10"
    },
    {
-    "id": "tt0105941:1:118",
-    "title": "Animaniacii — Jingle Boo",
+    "id": "tt0112123:1:12",
+    "title": "Pinky și Creierul — A Pinky And The Brain Christmas",
     "season": 1,
-    "episode": 44,
-    "released": "2000-02-13T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0105941/img",
-    "overview": "Animaniacii · S01E118 · segment"
+    "episode": 24,
+    "released": "2000-01-24T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0112123/img",
+    "overview": "Pinky și Creierul · S01E12"
    },
    {
-    "id": "tt0429305:2:16",
-    "title": "Dragonul American: Jake Long — Hairy Christmas",
+    "id": "tt0285371:2:18",
+    "title": "Heathcliff — Christmas Memories",
     "season": 1,
-    "episode": 45,
-    "released": "2000-02-14T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0429305/img",
-    "overview": "Dragonul American: Jake Long · S02E16 · blocul Disney Stars, din 2008"
+    "episode": 25,
+    "released": "2000-01-25T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0285371/img",
+    "overview": "Heathcliff · S02E18"
+   },
+   {
+    "id": "tt0118360:3:52",
+    "title": "Johnny Bravo — A Johnny Bravo Christmas",
+    "season": 1,
+    "episode": 26,
+    "released": "2000-01-26T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0118360/img",
+    "overview": "Johnny Bravo · S03E52"
+   },
+   {
+    "id": "tt0374419:3:18",
+    "title": "Martin Mystery — All I Want for X-mas",
+    "season": 1,
+    "episode": 27,
+    "released": "2000-01-27T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0374419/img",
+    "overview": "Martin Mystery · S03E18"
+   },
+   {
+    "id": "tt0255768:4:51",
+    "title": "Ursul Yogi — Yogi Bear's All Star Comedy Christmas Caper",
+    "season": 1,
+    "episode": 28,
+    "released": "2000-01-28T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0255768/img",
+    "overview": "Ursul Yogi · S04E51 · special 1982"
+   },
+   {
+    "id": "tt0278866:2:15",
+    "title": "Kim Possible — A Very Possible Christmas",
+    "season": 1,
+    "episode": 29,
+    "released": "2000-01-29T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0278866/img",
+    "overview": "Kim Possible · S02E15 · blocul Disney Stars, din 2008"
+   },
+   {
+    "id": "tt0115157:2:105",
+    "title": "Laboratorul lui Dexter — Dexter Vs. Santa's Claws",
+    "season": 1,
+    "episode": 30,
+    "released": "2000-01-30T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0115157/img",
+    "overview": "Laboratorul lui Dexter · S02E105"
+   },
+   {
+    "id": "tt0795256:1:30",
+    "title": "Pucca — Secret Santa",
+    "season": 1,
+    "episode": 31,
+    "released": "2000-01-31T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0795256/img",
+    "overview": "Pucca · S01E30"
    },
    {
     "id": "tt0118360:1:14",
     "title": "Johnny Bravo — 'Twas The Night",
     "season": 1,
-    "episode": 46,
-    "released": "2000-02-15T00:00:00.000Z",
+    "episode": 32,
+    "released": "2000-02-01T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0118360/img",
     "overview": "Johnny Bravo · S01E14"
    },
    {
-    "id": "tt0374419:1:10",
-    "title": "Martin Mystery — Eternal Christmas",
+    "id": "tt0098891:1:8",
+    "title": "Aventurile lui Peter Pan — Hook's Christmas",
     "season": 1,
-    "episode": 47,
-    "released": "2000-02-16T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0374419/img",
-    "overview": "Martin Mystery · S01E10"
+    "episode": 33,
+    "released": "2000-02-02T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0098891/img",
+    "overview": "Aventurile lui Peter Pan · S01E08"
    },
    {
-    "id": "tt0419315:0:2",
-    "title": "Tabăra Lazlo — Kamp Kringle",
+    "id": "tt0760437:3:4",
+    "title": "Ben 10 — Merry Christmas",
     "season": 1,
-    "episode": 48,
-    "released": "2000-02-17T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0419315/img",
-    "overview": "Tabăra Lazlo · S00E02 · special"
+    "episode": 34,
+    "released": "2000-02-03T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0760437/img",
+    "overview": "Ben 10 · S03E04"
    },
    {
-    "id": "tt0178125:2:13",
-    "title": "Câine rău — A Very Berkeley Christmas / Doggy Detective",
+    "id": "tt1307224:1:26",
+    "title": "Kid vs. Kat — Kid vs. Kat vs. Christmas (1 & 2)",
     "season": 1,
-    "episode": 49,
-    "released": "2000-02-18T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0178125/img",
-    "overview": "Câine rău · S02E13"
+    "episode": 35,
+    "released": "2000-02-04T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt1307224/img",
+    "overview": "Kid vs. Kat · S01E26"
    },
    {
-    "id": "tt0105941:5:14",
-    "title": "Animaniacii — The Christmas Tree",
+    "id": "tt0275137:2:23",
+    "title": "Liga Dreptății — Comfort and Joy",
     "season": 1,
-    "episode": 50,
-    "released": "2000-02-19T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0105941/img",
-    "overview": "Animaniacii · S05E14"
+    "episode": 36,
+    "released": "2000-02-05T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0275137/img",
+    "overview": "Liga Dreptății · S02E23"
    },
    {
     "id": "tt0112047:1:1",
     "title": "Viața cu Louie — A Christmas Surprise for Mrs. Stillman",
     "season": 1,
-    "episode": 51,
-    "released": "2000-02-20T00:00:00.000Z",
+    "episode": 37,
+    "released": "2000-02-06T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0112047/img",
     "overview": "Viața cu Louie · S01E01"
+   },
+   {
+    "id": "tt0105941:1:119",
+    "title": "Animaniacii — The Great Wakkorotti: The Holiday Concert",
+    "season": 1,
+    "episode": 38,
+    "released": "2000-02-07T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0105941/img",
+    "overview": "Animaniacii · S01E119 · segment"
+   },
+   {
+    "id": "tt0387741:2:9",
+    "title": "Gadget și Gadgetinii — Santa Claw",
+    "season": 1,
+    "episode": 39,
+    "released": "2000-02-08T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0387741/img",
+    "overview": "Gadget și Gadgetinii · S02E09"
+   },
+   {
+    "id": "tt0767914:2:9",
+    "title": "Class of 3000 — The Class of 3000 Christmas Special (Part 1)",
+    "season": 1,
+    "episode": 40,
+    "released": "2000-02-09T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0767914/img",
+    "overview": "Class of 3000 · S02E09"
+   },
+   {
+    "id": "tt0103373:6:5",
+    "title": "Lumea lui Bobby — Miracle on 34th St. & Rural Route 1 (probabil)",
+    "season": 1,
+    "episode": 41,
+    "released": "2000-02-10T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0103373/img",
+    "overview": "Lumea lui Bobby · S06E05 · titlu după un film de Crăciun"
+   },
+   {
+    "id": "tt0105941:5:14",
+    "title": "Animaniacii — The Christmas Tree",
+    "season": 1,
+    "episode": 42,
+    "released": "2000-02-11T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0105941/img",
+    "overview": "Animaniacii · S05E14"
+   },
+   {
+    "id": "tt0429305:2:16",
+    "title": "Dragonul American: Jake Long — Hairy Christmas",
+    "season": 1,
+    "episode": 43,
+    "released": "2000-02-12T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0429305/img",
+    "overview": "Dragonul American: Jake Long · S02E16 · blocul Disney Stars, din 2008"
+   },
+   {
+    "id": "tt0105941:4:4",
+    "title": "Animaniacii — Noel",
+    "season": 1,
+    "episode": 44,
+    "released": "2000-02-13T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0105941/img",
+    "overview": "Animaniacii · S04E04"
+   },
+   {
+    "id": "tt0283226:5:23",
+    "title": "Spioanele — Ho-ho-ho-No! (probabil)",
+    "season": 1,
+    "episode": 45,
+    "released": "2000-02-14T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0283226/img",
+    "overview": "Spioanele · S05E23 · sezonul 5 a apărut după închiderea Jetix"
+   },
+   {
+    "id": "tt0105941:1:117",
+    "title": "Animaniacii — 'Twas the Day Before Christmas",
+    "season": 1,
+    "episode": 46,
+    "released": "2000-02-15T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0105941/img",
+    "overview": "Animaniacii · S01E117 · segment"
+   },
+   {
+    "id": "tt0178125:2:13",
+    "title": "Câine rău — A Very Berkeley Christmas / Doggy Detective",
+    "season": 1,
+    "episode": 47,
+    "released": "2000-02-16T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0178125/img",
+    "overview": "Câine rău · S02E13"
+   },
+   {
+    "id": "tt1178180:2:23",
+    "title": "Peripețiile lui Flapjack — Low Tidings",
+    "season": 1,
+    "episode": 48,
+    "released": "2000-02-17T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt1178180/img",
+    "overview": "Peripețiile lui Flapjack · S02E23 · difuzat în RO probabil în 2010"
+   },
+   {
+    "id": "tt0168366:0:36",
+    "title": "Pokémon — Pikachu's Winter Vacation (Christmas Night & Kanga Games) (probabil)",
+    "season": 1,
+    "episode": 49,
+    "released": "2000-02-18T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0168366/img",
+    "overview": "Pokémon · S00E36 · scurtmetraj; difuzarea în RO nesigură"
+   },
+   {
+    "id": "tt0312109:5:1",
+    "title": "Clanul Nebunaticilor de Alături — Operation: N.A.U.G.H.T.Y.",
+    "season": 1,
+    "episode": 50,
+    "released": "2000-02-19T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0312109/img",
+    "overview": "Clanul Nebunaticilor de Alături · S05E01"
+   },
+   {
+    "id": "tt0374419:1:10",
+    "title": "Martin Mystery — Eternal Christmas",
+    "season": 1,
+    "episode": 51,
+    "released": "2000-02-20T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0374419/img",
+    "overview": "Martin Mystery · S01E10"
    },
    {
     "id": "tt0451461:2:17",
@@ -482,49 +482,49 @@
     "overview": "Colegul meu de sală e o maimuță · S02E17"
    },
    {
-    "id": "tt0289036:1:18",
-    "title": "Ce-i cu Andy? — Gnome For the Holidays (probabil)",
-    "season": 1,
-    "episode": 53,
-    "released": "2000-02-22T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0289036/img",
-    "overview": "Ce-i cu Andy? · S01E18"
-   },
-   {
-    "id": "tt0053502:0:4",
-    "title": "Familia Flintstone — A Flintstone Christmas (probabil)",
-    "season": 1,
-    "episode": 54,
-    "released": "2000-02-23T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0053502/img",
-    "overview": "Familia Flintstone · S00E04 · special; difuzarea în RO nesigură"
-   },
-   {
-    "id": "tt0103584:4:12",
-    "title": "X-Men — Have Yourself a Morlock Little X-Mas",
-    "season": 1,
-    "episode": 55,
-    "released": "2000-02-24T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0103584/img",
-    "overview": "X-Men · S04E12"
-   },
-   {
-    "id": "tt0105941:1:119",
-    "title": "Animaniacii — The Great Wakkorotti: The Holiday Concert",
-    "season": 1,
-    "episode": 56,
-    "released": "2000-02-25T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0105941/img",
-    "overview": "Animaniacii · S01E119 · segment"
-   },
-   {
     "id": "tt0103408:2:14",
     "title": "Pisoiul Eek — It's a Very Merry Eek's-mas",
     "season": 1,
-    "episode": 57,
-    "released": "2000-02-26T00:00:00.000Z",
+    "episode": 53,
+    "released": "2000-02-22T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0103408/img",
     "overview": "Pisoiul Eek · S02E14"
+   },
+   {
+    "id": "tt0419322:1:14",
+    "title": "Evil Con Carne — Christmas Con Carne",
+    "season": 1,
+    "episode": 54,
+    "released": "2000-02-23T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0419322/img",
+    "overview": "Evil Con Carne · S01E14"
+   },
+   {
+    "id": "tt0855673:2:55",
+    "title": "Yin Yang Yo! — Season's Beatings (probabil)",
+    "season": 1,
+    "episode": 55,
+    "released": "2000-02-24T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0855673/img",
+    "overview": "Yin Yang Yo! · S02E55 · difuzarea în RO nesigură"
+   },
+   {
+    "id": "tt0482870:1:20",
+    "title": "Robotboy — Christmas Evil",
+    "season": 1,
+    "episode": 56,
+    "released": "2000-02-25T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0482870/img",
+    "overview": "Robotboy · S01E20"
+   },
+   {
+    "id": "tt0204777:2:8",
+    "title": "Dosarele secrete ale câinilor detectivi — DNA / Santa (probabil)",
+    "season": 1,
+    "episode": 57,
+    "released": "2000-02-26T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0204777/img",
+    "overview": "Dosarele secrete ale câinilor detectivi · S02E08"
    },
    {
     "id": "tt0175058:0:5",
@@ -536,76 +536,76 @@
     "overview": "Fetițele Powerpuff · S00E05 · special"
    },
    {
-    "id": "tt0326701:2:9",
-    "title": "Orășelul purceilor — Christmas Ham",
+    "id": "tt0852863:2:37",
+    "title": "Phineas și Ferb — Phineas and Ferb's Christmas Vacation (probabil)",
     "season": 1,
     "episode": 59,
     "released": "2000-02-28T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0326701/img",
-    "overview": "Orășelul purceilor · S02E09"
-   },
-   {
-    "id": "tt0312109:5:1",
-    "title": "Clanul Nebunaticilor de Alături — Operation: N.A.U.G.H.T.Y.",
-    "season": 1,
-    "episode": 60,
-    "released": "2000-02-29T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0312109/img",
-    "overview": "Clanul Nebunaticilor de Alături · S05E01"
-   },
-   {
-    "id": "tt0168366:0:36",
-    "title": "Pokémon — Pikachu's Winter Vacation (Christmas Night & Kanga Games) (probabil)",
-    "season": 1,
-    "episode": 61,
-    "released": "2000-03-01T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0168366/img",
-    "overview": "Pokémon · S00E36 · scurtmetraj; difuzarea în RO nesigură"
-   },
-   {
-    "id": "tt0115157:2:105",
-    "title": "Laboratorul lui Dexter — Dexter Vs. Santa's Claws",
-    "season": 1,
-    "episode": 62,
-    "released": "2000-03-02T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0115157/img",
-    "overview": "Laboratorul lui Dexter · S02E105"
-   },
-   {
-    "id": "tt0103359:1:38",
-    "title": "Batman: Seria animată — Christmas with the Joker",
-    "season": 1,
-    "episode": 63,
-    "released": "2000-03-03T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0103359/img",
-    "overview": "Batman: Seria animată · S01E38"
+    "thumbnail": "https://images.metahub.space/background/medium/tt0852863/img",
+    "overview": "Phineas și Ferb · S02E37 · apărut după închiderea Jetix"
    },
    {
     "id": "tt0767914:2:10",
     "title": "Class of 3000 — The Class of 3000 Christmas Special (Part 2)",
     "season": 1,
-    "episode": 64,
-    "released": "2000-03-04T00:00:00.000Z",
+    "episode": 60,
+    "released": "2000-02-29T00:00:00.000Z",
     "thumbnail": "https://images.metahub.space/background/medium/tt0767914/img",
     "overview": "Class of 3000 · S02E10"
    },
    {
-    "id": "tt0760437:3:4",
-    "title": "Ben 10 — Merry Christmas",
+    "id": "tt0172031:1:27",
+    "title": "Noua Familie Addams — Christmas with the Addams Family",
+    "season": 1,
+    "episode": 61,
+    "released": "2000-03-01T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0172031/img",
+    "overview": "Noua Familie Addams · S01E27"
+   },
+   {
+    "id": "tt0053502:0:4",
+    "title": "Familia Flintstone — A Flintstone Christmas (probabil)",
+    "season": 1,
+    "episode": 62,
+    "released": "2000-03-02T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0053502/img",
+    "overview": "Familia Flintstone · S00E04 · special; difuzarea în RO nesigură"
+   },
+   {
+    "id": "tt0168366:1:65",
+    "title": "Pokémon — Holiday Hi-Jynx",
+    "season": 1,
+    "episode": 63,
+    "released": "2000-03-03T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0168366/img",
+    "overview": "Pokémon · S01E65"
+   },
+   {
+    "id": "tt0105941:1:121",
+    "title": "Animaniacii — A Christmas Plotz",
+    "season": 1,
+    "episode": 64,
+    "released": "2000-03-04T00:00:00.000Z",
+    "thumbnail": "https://images.metahub.space/background/medium/tt0105941/img",
+    "overview": "Animaniacii · S01E121 · segment"
+   },
+   {
+    "id": "tt0419326:3:10",
+    "title": "Casa Foster pentru prieteni imaginari — A Lost Claus",
     "season": 1,
     "episode": 65,
     "released": "2000-03-05T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0760437/img",
-    "overview": "Ben 10 · S03E04"
+    "thumbnail": "https://images.metahub.space/background/medium/tt0419326/img",
+    "overview": "Casa Foster pentru prieteni imaginari · S03E10"
    },
    {
-    "id": "tt0118360:3:52",
-    "title": "Johnny Bravo — A Johnny Bravo Christmas",
+    "id": "tt0419315:0:2",
+    "title": "Tabăra Lazlo — Kamp Kringle",
     "season": 1,
     "episode": 66,
     "released": "2000-03-06T00:00:00.000Z",
-    "thumbnail": "https://images.metahub.space/background/medium/tt0118360/img",
-    "overview": "Johnny Bravo · S03E52"
+    "thumbnail": "https://images.metahub.space/background/medium/tt0419315/img",
+    "overview": "Tabăra Lazlo · S00E02 · special"
    }
   ]
  }
